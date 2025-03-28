@@ -85,8 +85,6 @@ streamlit run main.py
 ## Contributing
 Contributions are welcome! Please submit pull requests or open issues on GitHub.
 
-## License
-[Specify your license, e.g., MIT License]
 
 ## Disclaimer
 This tool provides automated insights and should not replace professional financial advice. Users are responsible for verifying the accuracy of generated reports.
